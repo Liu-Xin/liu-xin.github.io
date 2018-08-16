@@ -1,4 +1,4 @@
-Personal Website for Andrew Liu
+Personal Website for Andrew Liu, forked from Simpleyyt/jekyll-theme-next
 
 TODO:
 - move the about me page as the home page
