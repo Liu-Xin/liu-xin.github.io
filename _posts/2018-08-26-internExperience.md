@@ -26,3 +26,5 @@ Summary: Learning from full-time engineers and the knowledge they had, and meeti
 ### Overall:
 I feel like I grew a lot as a software engineer during this summer. Working for one of the largest tech companies opened my eyes to what the industry is like, and what I can do from now until graduation to prepare myself for it. Hmm, I wonder what I'll be doing next summer?
 
+- Andrew
+
