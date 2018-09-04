@@ -29,4 +29,6 @@ When the POTUS receives the message, they decrypt it using the same 40 character
 - the XOR operation has no bitskew and has equally probable outputs for any given input.
 - the algorithm is relatively easy to implement.
 
+I felt like going over this was a really good introduction to cryptography. It really sparked my interest in the subject and the underlying mathematics.
+
 - Andrew

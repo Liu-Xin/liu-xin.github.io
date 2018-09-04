@@ -119,8 +119,8 @@ index_with_subtitle: false
 menu:
   #home: /
   about: /about/
-  categories: /categories/
   archives: /archives/
+  categories: /categories/
   #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
