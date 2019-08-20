@@ -19,7 +19,7 @@ Firstly, I would meet the president of the US and generate a random bit string, 
 
 So now, back in my home, I want to send the string "Hello" to the POTUS. "Hello" converted from ASCII to bit string has a length of 40. So we will use the first 40 characters of the secret key. To generate the encrypted message, we take the bit string representing "Hello", and do XOR operation with the secret key. As long as the secret key was truly generated randomly, then the encrypted message should be safe.
 
-When the POTUS receives the message, they decrypt it using the same 40 characters of the secret key. To decrypt, he would just XOR the encrypted message with the secret key. Because of the XOR operations, the president would then receive the original message of "Hello".
+When the POTUS receives the message, they decrypt it using the same 40 characters of the secret key. To decrypt, he would just XOR the encrypted message with the inverse of the secret key. Because of the XOR operations, the president would then receive the original message of "Hello".
 
 #### Some downsides of One Time Pad
 - Generating perfectly random keys are hard. Software generators sometimes repeat values + have biases. The security of One Time Pad, considering the key is only known by the sender and receiver, completely depends on the random secret generator.
