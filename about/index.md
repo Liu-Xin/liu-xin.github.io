@@ -17,6 +17,6 @@ On this website, I'll be maintaining a blog (which will be updated once in a blu
 
 
 ##### Contact Info & Resume / 聯繫方式 & 簡歷
-Email／郵件: liu1846@purdue.edu | Phone／電話: (510) 364-6299 | [Resume](https://drive.google.com/open?id=1iOM6tRrMUUug0V-0bA1eZjuOXoCoIgoQ) | [LinkedIn](https://www.linkedin.com/in/liu-xin-andrew/) | [Github](https://github.com/Liu-Xin)
+Email／郵件: liu1846@purdue.edu | Phone／電話: (510) 364-6299 | [Resume](https://drive.google.com/open?id=17QAu7psoRx0doT-9YW5YISjtqUV_OVBq) | [LinkedIn](https://www.linkedin.com/in/liu-xin-andrew/) | [Github](https://github.com/Liu-Xin)
 
 
